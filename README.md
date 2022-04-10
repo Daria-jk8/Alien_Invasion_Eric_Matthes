@@ -1,14 +1,14 @@
+# :star: Eric Matthes :rocket: 🛸
 
-# Eric Matthes
-
-## Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction To Programming 
-
-### Project 1 --> Alien Invasion
+## Python Crash Course,  2nd Edition: A Hands-On, Project-Based Introduction To Programming 
+--------
+## Project 1  :fire: --> Alien Invasion 
+-------
  - Python, Pygame, VSCode
- - Alien, bullet, ship, alien invasion...
+ - Alien, bullet, ship, alien invasion :alien: :rocket: 🛸 👾
+-------
 
-
-# How to play:
+# How to play :
 ```bash
 python3 alien_invasion.py # run
 ```
@@ -22,10 +22,10 @@ python3 alien_invasion.py # run
  - You have ship_limit = 3 (your lives). If there is a collision with aliens, you have lost 1 ship and keep playing.
 - This is an endless game, there is no victory
 
-# Result:
+#  Result : 
 
-- screenshot;
-- video
+- screenshot; 
+- video 
 
 ![Screenshot](images/screenshot.png) 
 
