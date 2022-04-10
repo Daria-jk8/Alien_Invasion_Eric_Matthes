@@ -8,7 +8,7 @@
  - Alien, bullet, ship, alien invasion...
 
 
-# How to play
+# How to play:
 ```bash
 python3 alien_invasion.py # run
 ```
@@ -22,6 +22,12 @@ python3 alien_invasion.py # run
  - You have ship_limit = 3 (your lives). If there is a collision with aliens, you have lost 1 ship and keep playing.
 - This is an endless game, there is no victory
 
-# Result
+# Result:
 
-![Screenshot](images/screenshot.png)
+- screenshot;
+- video
+
+![Screenshot](images/screenshot.png) 
+
+ https://user-images.githubusercontent.com/92945302/162623352-ebbed3e7-6d1e-4a0f-8ac9-449ab6df7096.mp4
+
