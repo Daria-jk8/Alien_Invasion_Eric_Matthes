@@ -1,6 +1,6 @@
 # :star: Eric Matthes :rocket: 🛸
 
-## Python Crash Course,  2nd Edition: A Hands-On, Project-Based Introduction To Programming 
+### Python Crash Course,  2nd Edition: A Hands-On, Project-Based Introduction To Programming 
 --------
 ## Project 1  :fire: --> Alien Invasion 
 -------
